@@ -12,7 +12,7 @@ Uma calculadora simples feita em Python para praticar lógica de programação e
 🛠️ Tecnologias
 Python 3
 ▶️ Como executar
-git clone https://github.com/SEU-USUARIO/python-calculator.git
+git clone [https://github.com/MarkDevBrasil/atividade2.py](https://github.com/MarkDevBrasil/Calculadora-Simples-em-Python/edit/main/atividade2.py)
 cd python-calculator
 python calculadora.py
 
